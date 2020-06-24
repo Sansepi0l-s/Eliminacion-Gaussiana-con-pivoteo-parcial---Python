@@ -1,0 +1,1 @@
+# Eliminacion-Gaussiana-con-pivoteo-parcial---Python
